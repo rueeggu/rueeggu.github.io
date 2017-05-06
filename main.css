@@ -1,15 +1,12 @@
 h1{
-    color: #426493;
-}
-
-#eins {
-    color: #d147a5;
-}
-body {color: #60d147;
-}
-#header {
     text-align: center;
     padding-top: 25px;
     padding-bottom: 25px;
     background-color: #426493;
    }
+
+#eins {
+    color: #d147a5;
+}
+body{color: #60d147;
+}
